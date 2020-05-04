@@ -20,4 +20,4 @@ docker tag fake-image:latest registry.example.com/fake-image:latest
 docker push registry.example.com/fake-image:latest
 ```
 ## Target to change if any
-changed 1
+changed 2
