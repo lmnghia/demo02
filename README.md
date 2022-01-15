@@ -1,4 +1,4 @@
-# Deep Security Smart Check test image
+# Deep Security Smart Check test image - test 1
 
 You can use the files in this directory to create a test image for Deep Security Smart Check. This image will trigger findings in the malware, vulnerability, content, and security checklist scanners.
 
